@@ -12,5 +12,6 @@ function addUpTo(n: number): void {
 function addUpTo(n: number) {
   console.log((n * (n + 1)) / 2);
 }
+// time complexity = O(1)
 
 addUpTo(3);
