@@ -5,3 +5,4 @@ function countUpAndDown(n: number): void {
   console.log('Goind Down!');
   for (let j = n; j >= 0; j--) console.log(j);
 }
+// time complexity = O(n)
