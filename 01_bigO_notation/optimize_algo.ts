@@ -6,5 +6,6 @@ function addUpTo(n: number): void {
   }
   console.log(sum);
 }
+// time complexity = O(n)
 
 addUpTo(3);
