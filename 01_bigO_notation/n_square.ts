@@ -5,3 +5,4 @@ function allPairs(n: number): void {
     }
   }
 }
+// time complexity = O(n ^ 2)
