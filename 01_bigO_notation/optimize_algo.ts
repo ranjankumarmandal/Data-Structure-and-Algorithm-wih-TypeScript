@@ -8,4 +8,5 @@ function addUpTo(n: number): void {
 }
 // time complexity = O(n)
 
+// scenario 2
 addUpTo(3);
