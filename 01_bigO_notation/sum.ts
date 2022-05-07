@@ -10,3 +10,5 @@ function sum({ a, b }: Param): void {
 let a = 5,
   b = 2;
 sum({ a, b });
+
+// time complexity = O(1)
