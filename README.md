@@ -1,6 +1,6 @@
 # About This App
 
-This is repository showing the implementations of Data Structure and Algorithm using Typescript.
+This is repository showing the implementations of Data Structure and Algorithm using Typescript. Not in deep but just some examples of problem solving approach and patterns.
 
 ## You have some query?
 
